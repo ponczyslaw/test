@@ -1,0 +1,8 @@
+https://allegro.pl/auth/oauth/authorize?response_type=code&client_id=1fc2fd496f2b497699a5f91d6b7590b3&redirect_uri=https://github.com/ponczyslaw/test.git
+
+{
+  "offers": [
+    {
+      "id": "123",
+      "title": "test"
+    },
